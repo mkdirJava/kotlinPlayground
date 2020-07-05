@@ -1,4 +1,4 @@
-/*
+package GettingStarted/*
 val is const and final
 var is mutable
 both are non nullable
